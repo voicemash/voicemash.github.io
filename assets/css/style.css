@@ -1571,7 +1571,7 @@ section.contact > .container {
   position: absolute;
   bottom: 45px;
   left: 50%;
-  height: 2px;
+  height: 0px;
   width: 50px;
   margin-left: -25px;
   background: #fff;
